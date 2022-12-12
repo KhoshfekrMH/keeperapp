@@ -5,7 +5,7 @@ function Footing() {
     const currentTimeYear = data.getFullYear();
     return (
         <footer>
-            <p>Created By Mr.Khoshfehr {currentTimeYear}</p>
+            <p>© Copyright {currentTimeYear}</p>
         </footer>
     );
 }
